@@ -1,4 +1,4 @@
-# MLAD November S2022
+# MLAD November 2022
 
 This reamd me will get you started on copying this repo to your Azure ML coumute instance. This assumes you have an Azure Machine LEarning Worksapce already created. 
 
