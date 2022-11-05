@@ -1,6 +1,6 @@
 # MLADS November 2022
 
-This read me will get you started on copying this repo to your Azure ML coumute instance. This assumes you have an Azure Machine LEarning Worksapce already created. 
+This read me will get you started on copying this repo to your Azure ML coumute instance. This assumes you have an Azure Machine Learning Worksapce already created. 
 
 1. Navigate to your **Azure Machine Learning Studio Workspace**
 2. On the Left blade under **Manage** select **Compute**
