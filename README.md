@@ -2,6 +2,9 @@
 
 This read me will get you started on copying this repo to your Azure ML coumute instance. This assumes you have an Azure Machine Learning Worksapce already created. 
 
+For a free Azure Subscription:
+https://go.microsoft.com/fwlink/?LinkID=328777
+
 1. Navigate to your **Azure Machine Learning Studio Workspace**
 2. On the Left blade under **Manage** select **Compute**
 3. If you do not have a **Coumpte Instance** created, create one now, small instance is fine.
